@@ -16,7 +16,8 @@ body {
   position: relative;
   background-color: #1a1a1a;
   color: #fff;
-  border: 1px solid #333;
+  border: 7px solid #d09348;
+  box-shadow: #ff8c00 0 25px 60px -5px;
 }
 
 .title {
